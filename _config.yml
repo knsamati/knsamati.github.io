@@ -1,0 +1,32 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+
+# Setup
+title:               pratiqueR
+tagline:             'Un blog sur R et les autres'
+description:         'R est un logiciel open source pour l analyse des données et plus encore'
+url:                 http://lanyon.getpoole.com
+baseurl:             '/'
+paginate:            5
+
+# About/contact
+author:
+  name:              Komlan Nouwokpo Samati
+  url:               ksamati.wordpress.com
+  twitter:           rsamati
+  github:            ksamati
+  facebook:          roland.samati
+  likedin:           roland samati
+  email:             kn.samati@gmail.com
+  bio :              Ingénieur Statisticien - Economètre data analyste
+
+# Custom vars
+version:             1.0.0
