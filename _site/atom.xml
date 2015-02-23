@@ -4,7 +4,7 @@
  <title>pratiqueR</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2015-02-19T19:43:55+00:00</updated>
+ <updated>2015-02-23T14:22:50+00:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Komlan Nouwokpo Samati</name>
@@ -13,10 +13,55 @@
 
  
  <entry>
+   <title>Big data</title>
+   <link href="http://lanyon.getpoole.com/2015/02/22/bigdata/"/>
+   <updated>2015-02-22T00:00:00+00:00</updated>
+   <id>http://lanyon.getpoole.com/2015/02/22/bigdata</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Big data</title>
+   <link href="http://lanyon.getpoole.com/en/2015/02/22/bigdata/"/>
+   <updated>2015-02-22T00:00:00+00:00</updated>
+   <id>http://lanyon.getpoole.com/en/2015/02/22/bigdata</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Blog avec Jekyll</title>
    <link href="http://lanyon.getpoole.com/2015/02/18/introduction/"/>
    <updated>2015-02-18T00:00:00+00:00</updated>
    <id>http://lanyon.getpoole.com/2015/02/18/introduction</id>
+   <content type="html">&lt;h3&gt;Pouquoi Jekyll&lt;/h3&gt;
+
+&lt;p&gt;Après avoir explorer WordPress pour faire mon blog, je me suis rendu compte que je n&amp;#39;avance pas trop:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Les meilleurs themes sont payants alors que je deste payer des choses sur internet;&lt;/li&gt;
+&lt;li&gt;Impossible (pour moi du moins) d&amp;#39;utiliser des themes personnalisés;&lt;/li&gt;
+&lt;li&gt;Plus grave, impossible de poster directement mes posts à partir de R.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alors en cherchant un peu sur google, je me rend compte qu&amp;#39;il y a des solutions open sources très personnalisable. Parmi ces solutions, la plus utilisée est sans doute &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; qui est un gem  (un package) de ruby Après avoir explorer plusieurs theme, je trouve que &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt; n&amp;#39;est pas mal.  &lt;/p&gt;
+
+&lt;h3&gt;Hebergement&lt;/h3&gt;
+
+&lt;p&gt;Tous les blogs developpés sur R sont hebergeables sur le site github qui est le reseau social des developpeurs.&lt;/p&gt;
+
+&lt;h3&gt;Et que dire de R&lt;/h3&gt;
+
+&lt;p&gt;Sur le net, il y a plusieurs fonctions qui permettent de convertir les fichiers .Rmd (des fichiers Rmarkdown) et fichiers .md. Il y a également un plugins qui permet d&amp;#39;écrire directement des fichiers .Rmd et de les publier directement sur votre blog. &lt;/p&gt;
+
+&lt;p&gt;Et voilà, on peut commencer à écrire tranquillement alors!!!!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Blog avec Jekyll</title>
+   <link href="http://lanyon.getpoole.com/en/2015/02/18/introduction/"/>
+   <updated>2015-02-18T00:00:00+00:00</updated>
+   <id>http://lanyon.getpoole.com/en/2015/02/18/introduction</id>
    <content type="html">&lt;h3&gt;Pouquoi Jekyll&lt;/h3&gt;
 
 &lt;p&gt;Après avoir explorer WordPress pour faire mon blog, je me suis rendu compte que je n&amp;#39;avance pas trop:&lt;/p&gt;

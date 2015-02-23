@@ -1,0 +1,116 @@
+---
+"/home/komlan/github/knsamati.github.io/_posts/2015-02-18-introduction.md":
+  mtime: 2015-02-18 22:52:41.076134000 +00:00
+  deps:
+  - "/home/komlan/github/knsamati.github.io/_layouts/post.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/head.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/sidebar.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/share.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/comments.html"
+  - "/home/komlan/github/knsamati.github.io/_layouts/default.html"
+"/home/komlan/github/knsamati.github.io/_posts/fr.2015-02-22-bigdata.md":
+  mtime: 2015-02-23 14:22:50.081371806 +00:00
+  deps:
+  - "/home/komlan/github/knsamati.github.io/_layouts/post.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/head.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/sidebar.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/share.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/comments.html"
+  - "/home/komlan/github/knsamati.github.io/_layouts/default.html"
+"/home/komlan/github/knsamati.github.io/404.html":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps:
+  - "/home/komlan/github/knsamati.github.io/_includes/head.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/sidebar.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/share.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/comments.html"
+  - "/home/komlan/github/knsamati.github.io/_layouts/default.html"
+"/home/komlan/github/knsamati.github.io/apropos.md":
+  mtime: 2015-02-18 22:43:13.684121000 +00:00
+  deps:
+  - "/home/komlan/github/knsamati.github.io/_layouts/page.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/head.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/sidebar.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/share.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/comments.html"
+  - "/home/komlan/github/knsamati.github.io/_layouts/default.html"
+"/home/komlan/github/knsamati.github.io/atom.xml":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/cv.md":
+  mtime: 2015-02-18 20:55:06.201081000 +00:00
+  deps:
+  - "/home/komlan/github/knsamati.github.io/_layouts/page.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/head.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/sidebar.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/share.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/comments.html"
+  - "/home/komlan/github/knsamati.github.io/_layouts/default.html"
+"/home/komlan/github/knsamati.github.io/index.html":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps:
+  - "/home/komlan/github/knsamati.github.io/_includes/head.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/sidebar.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/share.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/comments.html"
+  - "/home/komlan/github/knsamati.github.io/_layouts/default.html"
+"/home/komlan/github/knsamati.github.io/LICENSE.md":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/README.md":
+  mtime: 2015-02-19 14:37:45.705612264 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/figs/2015-02-18-introduction/unnamed-chunk-2-1.svg":
+  mtime: 2015-02-18 19:46:35.466968000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/img/sama.jpeg":
+  mtime: 2014-12-30 17:55:36.554046000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/public/apple-touch-icon-precomposed.png":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/public/css/custom.css":
+  mtime: 2015-02-18 19:48:38.877235000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/public/css/lanyon.css":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/public/css/poole.css":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/public/css/syntax.css":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/public/favicon.ico":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/_layouts/post.html":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/_includes/head.html":
+  mtime: 2015-02-23 04:37:52.253327539 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/_layouts/page.html":
+  mtime: 2015-01-15 22:36:23.000000000 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/_includes/sidebar.html":
+  mtime: 2015-02-23 05:23:30.095849833 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/_posts/2015-02-21-bigData.md":
+  mtime: 2015-02-23 17:25:12.275421874 +00:00
+  deps:
+  - "/home/komlan/github/knsamati.github.io/_layouts/post.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/head.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/sidebar.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/share.html"
+  - "/home/komlan/github/knsamati.github.io/_includes/comments.html"
+  - "/home/komlan/github/knsamati.github.io/_layouts/default.html"
+"/home/komlan/github/knsamati.github.io/_includes/share.html":
+  mtime: 2015-02-19 19:42:21.988119522 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/_includes/comments.html":
+  mtime: 2015-02-19 19:21:57.456696539 +00:00
+  deps: []
+"/home/komlan/github/knsamati.github.io/_layouts/default.html":
+  mtime: 2015-02-23 04:38:09.672614355 +00:00
+  deps: []

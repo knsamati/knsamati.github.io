@@ -1,6 +1,19 @@
 # Dependencies
 markdown:            redcarpet
 highlighter:         pygments
+encoding:            "UTF-8"
+
+
+# Multiple languages
+#gems:           ['jekyll-multiple-languages']
+
+#languages:          ['fr', 'en']
+
+# If not config, the first of languages will be the default
+#language_default:   'fr'
+
+#fill_default_content: true
+
 
 # Permalinks
 #

@@ -13,7 +13,7 @@
 
   <title>
     
-      pratiqueR &middot; Un blog sur R et les autres
+      R et big data &middot; pratiqueR
     
   </title>
 
@@ -94,7 +94,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item active" href="/"/>Accueil</a>
+    <a class="sidebar-nav-item" href="/"/>Accueil</a>
 
     
 
@@ -151,18 +151,10 @@
       </div>
 
       <div class="container content">
-        <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2015/02/21/bigData/">
-        R et big data
-      </a>
-    </h1>
-
-    <span class="post-date">21 Feb 2015</span>
-
-    <p>R et les bases de données de grandes dimmensions ne font pas souvent bon ménage, du moins la version de base de R. Si vous essayez de lire une base de données de 1Go avec R, il est très fort probable que la machine se plante. La rapidité d&#39;execution de R depends, bien sûr, de la capacité de votre machine et de la version de R. De nouveaux open source  ont vu le jour et ont mis l&#39;accent sur la rapidité d&#39;execution comparativement à R. C&#39;est surtout le cas de <a href="http://julialang.org/"><strong>Julia</strong></a> et de certains modules statistiques de <a href="https://www.python.org/"><strong>python</strong></a> (pandas, Numpy). Mais comme R regorge des developpeurs de talent, des packages assez interessants ont vu le jour recemment: on s&#39;interessera dans ce billet à <strong>data.table</strong> et à <strong>dplyr</strong>.
+        <div class="post">
+  <h1 class="post-title">R et big data</h1>
+  <span class="post-date">21 Feb 2015</span>
+  <p>R et les bases de données de grandes dimmensions ne font pas souvent bon ménage, du moins la version de base de R. Si vous essayez de lire une base de données de 1Go avec R, il est très fort probable que la machine se plante. La rapidité d&#39;execution de R depends, bien sûr, de la capacité de votre machine et de la version de R. De nouveaux open source  ont vu le jour et ont mis l&#39;accent sur la rapidité d&#39;execution comparativement à R. C&#39;est surtout le cas de <a href="http://julialang.org/"><strong>Julia</strong></a> et de certains modules statistiques de <a href="https://www.python.org/"><strong>python</strong></a> (pandas, Numpy). Mais comme R regorge des developpeurs de talent, des packages assez interessants ont vu le jour recemment: on s&#39;interessera dans ce billet à <strong>data.table</strong> et à <strong>dplyr</strong>.
 Remarquons qu&#39;il existait d&#39;autres packages comme <strong>ff</strong> (et bien d&#39;autres comme <strong>bigmemory</strong>,<strong>filehash</strong>,<strong>ffbase</strong>,etc) pour traiter des données volumineuses. 
 Dans ce billet, nous allons nous à une base du recensement d&#39;un pays avec près de 6 millions d&#39;individus et 35 variables.</p>
 
@@ -283,61 +275,48 @@ base<span class="o">%&gt;%</span>group_by<span class="p">(</span><span class="kp
 <h3>Conclusion</h3>
 
 <p>Ces deux packages permettent de manipuler des données volumineuses sans trop d&#39;efforts. Ils sont les plus utilisés de nos jours. Il y a d&#39;autres packages assez utilisés comme <strong>sqldf</strong> qui utilise <strong>SQL</strong> pour la manipulation des bases. D&#39;autre projets existent pour la manipulation des big data comme R et Hadoop.
-Il ne s&#39;agit ici qu&#39;une petite introduction à la manipulation des données volumineuses. Toute personne interessée peut trouver la documentation en ligne.
-R est le meilleur!!!!</p>
+Il ne s&#39;agit ici qu&#39;une petite introduction à la manipulation des données volumineuses. Toute personne interessée peut trouver la documentation en ligne.</p>
 
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2015/02/18/introduction/">
-        Blog avec Jekyll
-      </a>
-    </h1>
+<p>R est le meilleur!!!!</p>
 
-    <span class="post-date">18 Feb 2015</span>
-
-    <h3>Pouquoi Jekyll</h3>
-
-<p>Après avoir explorer WordPress pour faire mon blog, je me suis rendu compte que je n&#39;avance pas trop:</p>
-
-<ul>
-<li>Les meilleurs themes sont payants alors que je deste payer des choses sur internet;</li>
-<li>Impossible (pour moi du moins) d&#39;utiliser des themes personnalisés;</li>
-<li>Plus grave, impossible de poster directement mes posts à partir de R.</li>
-</ul>
-
-<p>Alors en cherchant un peu sur google, je me rend compte qu&#39;il y a des solutions open sources très personnalisable. Parmi ces solutions, la plus utilisée est sans doute <a href="http://jekyllrb.com">Jekyll</a> qui est un gem  (un package) de ruby Après avoir explorer plusieurs theme, je trouve que <a href="http://getpoole.com">Poole</a> n&#39;est pas mal.  </p>
-
-<h3>Hebergement</h3>
-
-<p>Tous les blogs developpés sur R sont hebergeables sur le site github qui est le reseau social des developpeurs.</p>
-
-<h3>Et que dire de R</h3>
-
-<p>Sur le net, il y a plusieurs fonctions qui permettent de convertir les fichiers .Rmd (des fichiers Rmarkdown) et fichiers .md. Il y a également un plugins qui permet d&#39;écrire directement des fichiers .Rmd et de les publier directement sur votre blog. </p>
-
-<p>Et voilà, on peut commencer à écrire tranquillement alors!!!!</p>
-
-  </div>
-  
 </div>
 
-<div class="pagination">
-  
-    <span class="pagination-item older">Older</span>
-  
-  
-    <span class="pagination-item newer">Newer</span>
-  
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="//2015/02/18/introduction/">
+            Blog avec Jekyll
+            <small>18 Feb 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
 </div>
 
-
           
 
 
           
           
+      <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'knsamatigithubio'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
+
 
       
       </div>
