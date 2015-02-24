@@ -23,4 +23,4 @@ title: cv
 * PNUD : Membre de l'équipe nationale sur l'évaluation des flux financiers dans le secteur énergie.
 
 
-La version detaillé du cv se trouve ici
+La version detaillé du cv se trouve [**ici**](https://www.dropbox.com/s/6m17r3myydl9r77/cv_7.pdf?dl=0)
